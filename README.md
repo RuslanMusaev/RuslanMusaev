@@ -2,8 +2,7 @@
 
 🏦 **SRE & DevOPS Engineer | Banking Infrastructure**  
 💼 **5+ years of experience in banking infrastructure**  
-🎓 **Student @ Vladivostok State University**  
-📍 Vladivostok, Russia  
+📍 Serbia, Belgrade  
 ✈️ Telegram: [@PUBLICINDEXUSERNOTHAVE](https://t.me/PUBLICINDEXUSERNOTHAVE)
 
 I have over 5 years of experience working with banking infrastructure, focusing on production reliability, observability, and automation. My work spans Linux systems, container platforms, CI/CD pipelines, and the services that support critical business operations.
