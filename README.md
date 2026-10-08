@@ -1,6 +1,6 @@
 # Hey, I'm Ruslan 👋
 
-🏦 **SRE Engineer | Banking Infrastructure**  
+🏦 **SRE & DevOPS Engineer | Banking Infrastructure**  
 💼 **5+ years of experience in banking infrastructure**  
 🎓 **Student @ Vladivostok State University**  
 📍 Vladivostok, Russia  
