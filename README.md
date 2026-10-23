@@ -61,6 +61,11 @@ Working with PostgreSQL and Apache Kafka as part of production infrastructure, s
 
 [![View Repository](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/RuslanKirillov/Telegram_bot_for_3x_ui)
 
+### 🛠️ [SRE Roadmap](https://ruslanmusaev.github.io/sre-roadmap/)
+
+Интерактивный план развития SRE/DevOps на 12 недель: 60 практических заданий, подробный практикум и отслеживание прогресса.
+
+[![Try Online](https://img.shields.io/badge/Live-Try%20Online-2ea44f?style=flat&logo=githubpages&logoColor=white)](https://ruslanmusaev.github.io/sre-roadmap/)
 ---
 
 ## 👨‍💻 About Me
