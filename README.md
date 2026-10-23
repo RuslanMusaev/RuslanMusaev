@@ -1,9 +1,8 @@
 # Hey, I'm Ruslan 👋
 
 🏦 **SRE & DevOPS Engineer | Banking Infrastructure**  
-💼 **5+ years of experience in banking infrastructure**  
-📍 Serbia, Belgrade  
-✈️ Telegram: [@PUBLICINDEXUSERNOTHAVE](https://t.me/PUBLICINDEXUSERNOTHAVE)
+💼 **5+ years of experience in banking infrastructure**   
+✈️ Telegram: [@USERDOESNTHAVEAPUBLICINDEX](https://t.me/USERDOESNTHAVEAPUBLICINDEX)
 
 I have over 5 years of experience working with banking infrastructure, focusing on production reliability, observability, and automation. My work spans Linux systems, container platforms, CI/CD pipelines, and the services that support critical business operations.
 
@@ -81,4 +80,4 @@ Working with PostgreSQL and Apache Kafka as part of production infrastructure, s
 
 ## 📫 Let's Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/PUBLICINDEXUSERNOTHAVE)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/USERDOESNTHAVEAPUBLICINDEX)
